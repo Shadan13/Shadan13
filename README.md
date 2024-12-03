@@ -37,6 +37,9 @@
   <a href="https://linkedin.com/in/shadansiddiqui" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0c65c2&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
+  <a href="https://replit.com/floutdoubt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=replit&logo=replit&label=&color=fd5402&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="replit logo"  />
+  </a>
   <a href="https://discordapp.com/users/693727009263845376" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
   </a>
