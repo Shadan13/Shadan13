@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Shadan, and I'm a student at Victoria Junior College.</h3>
+<h3 align="center">Hi 👋! I'm Shadan, a student at Victoria Junior College.</h3>
 
 ---
 
@@ -31,14 +31,14 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://instagram.com/floutdoubt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+  <a href="mailto:me@shadan.one" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/shadansiddiqui" target="_blank">
+    <img src="[https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0c65c2&logoColor=white&labelColor=0c65c2&style=for-the-badge)" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/693727009263845376" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
-  </a>
-  <a href="mailto:me@shadan.one" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
   </a>
 </div>
 
